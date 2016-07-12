@@ -1,5 +1,5 @@
 # 2016-tutorials
-
+BLA BLA
 Schedule and links to tutorials on are the Wiki
 https://github.com/edamame-course/2016-tutorials/wiki
 
